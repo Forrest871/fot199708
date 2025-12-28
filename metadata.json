@@ -1,0 +1,5 @@
+{
+  "name": "Vinyl AI - Retro Player",
+  "description": "A high-fidelity virtual vinyl record player with an AI DJ that introduces tracks using Gemini.",
+  "requestFramePermissions": []
+}
